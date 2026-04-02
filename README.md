@@ -57,8 +57,8 @@ Python-1-Artemev/
 Если используете GitHub:
 
 ```bash
-git clone https://github.com/ivan-artemev24/Python-1-Artemev
-cd Python-1-Artemev
+git clone https://github.com/ivan-artemev24/python-bot
+cd python-bot
 ```
 
 ### 2. Создание и активация виртуального окружения
